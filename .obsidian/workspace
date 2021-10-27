@@ -4,28 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fa8f820e8b03da17",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ideas.md",
-            "mode": "source"
-          }
-        },
-        "group": "a715a9a3d0795df5"
-      },
-      {
         "id": "3a2e29d374fe631c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ideas.md",
+            "file": "Security App/Current  Workflows.md",
             "mode": "preview"
           }
-        },
-        "group": "a715a9a3d0795df5"
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas.md",
+                "file": "Security App/Current  Workflows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,16 +86,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fa8f820e8b03da17",
+  "active": "3a2e29d374fe631c",
   "lastOpenFiles": [
+    "Security App/Current  Workflows.md",
     "Ideas.md",
+    "Film Production Documents App.md",
+    "College App.md",
+    "Clinic App.md",
     "Absera Ideas/Custom App Idea List.md",
-    "Absera Ideas/Film Production Documents App.md",
-    "Absera Ideas/College App.md",
-    "Absera Ideas/Clinic App.md",
-    "Brain Boards App/Proposal.md",
     "Tournament App/Proposal.md",
-    "Security App/Scope of a ServiceNow Implementation.md",
-    "Security App/Current  Workflows.md"
+    "Brain Boards App/Proposal.md",
+    "Security App/Scope of a ServiceNow Implementation.md"
   ]
 }
