@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "f7a1a7f20a1ed39f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa8f820e8b03da17",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ideas.md",
+            "mode": "source"
+          }
+        },
+        "group": "a715a9a3d0795df5"
+      },
+      {
+        "id": "3a2e29d374fe631c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ideas.md",
+            "mode": "preview"
+          }
+        },
+        "group": "a715a9a3d0795df5"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2a6de15407faa0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c8c5e79396bfa20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b95e1a754b884966",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a5afec53f2fb127e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ac1ac5a61a4acbf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "006aab6397454e15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57e15c72b69eaefe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ideas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fa8f820e8b03da17",
+  "lastOpenFiles": [
+    "Ideas.md",
+    "Absera Ideas/Custom App Idea List.md",
+    "Absera Ideas/Film Production Documents App.md",
+    "Absera Ideas/College App.md",
+    "Absera Ideas/Clinic App.md",
+    "Brain Boards App/Proposal.md",
+    "Tournament App/Proposal.md",
+    "Security App/Scope of a ServiceNow Implementation.md",
+    "Security App/Current  Workflows.md"
+  ]
+}
