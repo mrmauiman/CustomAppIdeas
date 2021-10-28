@@ -1,5 +1,5 @@
 #  Proposal
-When working in a creative company, like an animation or game studio, sometimes the hardest part is collaboration on the idea creating level.  I think an app that let's you create what I call Brain Boards to collaborate on this initial step of creatioin would be extremely useful.
+When working in a creative company, like an animation or game studio, sometimes the hardest part is collaborating during brain-storming.  I think an app that let's you create what I call Brain Boards to collaborate on this initial step of creatioin would be extremely useful.
 
 ## What is a Brain Board
 This would be a page that allows whoever has access to it to make a not anywhere on the board.  The notes would support text boxes, images, and drawings.  It would also update in real time allowing other users on the board to see what you're doing.  It would also allow linking other boards as notes in a board.  So say There is a Company wide board at a gamedev company looking for ideas for the next game to make.  People could link a brain board that they collaborated on with some colleagues on as a note in the game ideas board.

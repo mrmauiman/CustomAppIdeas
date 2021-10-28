@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "3a2e29d374fe631c",
+        "id": "c4d8cc3e8bb89a47",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Security App/Current  Workflows.md",
+            "file": "Security App/C-Cure Abstraction.md",
+            "mode": "source"
+          }
+        },
+        "group": "72158aca8c8c2731"
+      },
+      {
+        "id": "90a6149c2a617131",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Security App/C-Cure Abstraction.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "72158aca8c8c2731"
       }
     ],
     "direction": "vertical"
@@ -52,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 318
   },
   "right": {
     "id": "ac1ac5a61a4acbf0",
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security App/Current  Workflows.md",
+                "file": "Security App/C-Cure Abstraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,16 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3a2e29d374fe631c",
+  "active": "c4d8cc3e8bb89a47",
   "lastOpenFiles": [
+    "Security App/C-Cure Abstraction.md",
+    "Security App/Scope of a ServiceNow Implementation.md",
     "Security App/Current  Workflows.md",
+    "Security App/D.A.R. Abstraction.md",
+    "Brain Boards App/Proposal.md",
+    "Tournament App/Proposal.md",
     "Ideas.md",
     "Film Production Documents App.md",
     "College App.md",
-    "Clinic App.md",
-    "Absera Ideas/Custom App Idea List.md",
-    "Tournament App/Proposal.md",
-    "Brain Boards App/Proposal.md",
-    "Security App/Scope of a ServiceNow Implementation.md"
+    "Clinic App.md"
   ]
 }
